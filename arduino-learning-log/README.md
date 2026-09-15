@@ -9,7 +9,7 @@ Serial Monitor is the first debugging tool.
 ## Projects
 | # | Project | Status |
 |---|---------|--------|
-| 01 | Blink + SOS | 🔲 Not started |
+| 01 | Blink + SOS | ✅ Mark blink+sos complete |
 
 ## Theory notes
 - [ ] Ohm's law & LED resistors
